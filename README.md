@@ -14,8 +14,11 @@ Hardware:
 8. Jumper Wires 1 PC
 9. Female-to-Male Dupont Wires 20 PCS
 
+Here is a visual representation of how the hardware should be set up: 
+![image](https://github.com/user-attachments/assets/6d53cc2c-17a1-4960-9514-5053a90b397a)
+
 Software: 
 1. Arduino IDE
 
-Here is a visual representation of how the hardware should be set up: 
-![image](https://github.com/user-attachments/assets/6d53cc2c-17a1-4960-9514-5053a90b397a)
+Here is a visual representation of how the software (code) should be set up: 
+<img width="960" alt="The code" src="https://github.com/user-attachments/assets/84a86bd1-a012-4912-a540-432064d5c578">
